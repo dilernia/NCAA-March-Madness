@@ -13,4 +13,4 @@ The RandomForest_Predictions.R file was my first attempt at formatting the data 
 
 
 ## Seed and Elo Benchmarks
-There are a couple useful script available on [Kaggle](https://www.kaggle.com/) that compute predictions based on team [tournament seeds](https://www.kaggle.com/wacaxx/march-machine-learning-mania-2016/seed-benchmark-data-table-in-r/code) and [Team Elo ratings](https://www.kaggle.com/wacaxx/march-machine-learning-mania-2016/elo-benchmark-playerratings-in-r). These scripts might be useful to generate comparison predictions for the final model. 
+There are a couple useful script available on [Kaggle](https://www.kaggle.com/) that compute predictions based on [tournament seeds](https://www.kaggle.com/wacaxx/march-machine-learning-mania-2016/seed-benchmark-data-table-in-r/code) and [team Elo ratings](https://www.kaggle.com/wacaxx/march-machine-learning-mania-2016/elo-benchmark-playerratings-in-r). These scripts might be useful to generate comparison predictions for the final model. 
