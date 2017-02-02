@@ -5,9 +5,9 @@ This repository includes the scripts and files used to predict the outcomes of t
 
 Below are the blog posts to the winners from the last 2 March Machine Learning Mania competitions hosted by [Kaggle](https://www.kaggle.com/).
 
-* [2015 Blog Post](http://blog.kaggle.com/2015/04/17/predicting-march-madness-1st-place-finisher-zach-bradshaw/)
+* [2015 Winner](http://blog.kaggle.com/2015/04/17/predicting-march-madness-1st-place-finisher-zach-bradshaw/)
 
-* [2016](http://blog.kaggle.com/2016/05/10/march-machine-learning-mania-2016-winners-interview-1st-place-miguel-alomar/)
+* [2016 Winner](http://blog.kaggle.com/2016/05/10/march-machine-learning-mania-2016-winners-interview-1st-place-miguel-alomar/)
 
 
 ## Random Forest Model
