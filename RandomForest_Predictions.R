@@ -5,7 +5,7 @@
 ########################################### Import Data tables provided by Kaggle website
 
 ## Set working directory where files are stored
-setwd("C:/Users/David/Desktop/ncaa/2016 Data")
+setwd("2016 Data")
 
 
 ## Read files into R
