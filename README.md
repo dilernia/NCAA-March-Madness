@@ -1,7 +1,7 @@
 # NCAA-March-Madness
 This repository includes the scripts and files used to predict the outcomes of the NCAA Tournament as part of the [Kaggle compeition here](https://www.kaggle.com/c/march-machine-learning-mania-2017).
 
-Below are the blog posts to the winners from the last 3 March Machine Learning Mania competitions hosted by [Kaggle](https://www.kaggle.com/). The previous winners each used a different approach for the competition. This could illustrate the randomness (i.e. madness) of the tournament, since there isn't necessarily a single method that consistently outperforms others in terms of game predictions. 
+Below are the blog posts to the winners from the last 3 March Machine Learning Mania competitions hosted by [Kaggle](https://www.kaggle.com/). Each of the previous winners used a different approach for the competition, which could suggest flaws in existing methodlogies to predict game outcomes. This partially demonstrates the *madness* in the NCAA Tournament. 
 
 * [2014 Winner](https://statsbylopez.com/2014/12/04/building-an-ncaa-mens-basketball-prediction-model/)
 
